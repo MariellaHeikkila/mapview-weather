@@ -48,10 +48,8 @@ export default function App() {
         latitude: latitude,
         longitude: longitude,
         latitudeDelta: 0.0421 ,
-        longitudeDelta: 0.0922 ,
-      
+        longitudeDelta: 0.0922 ,      
       }}
-      //mapType='satellite'
       >
       <Marker
       title='testing'
